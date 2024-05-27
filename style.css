@@ -29,6 +29,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-top: 60px;
   font-family: "figtree", sans-serif;
   border: solid 1px black;
   background-color: white;
